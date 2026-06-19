@@ -1,0 +1,6 @@
+{
+  "name": "Swift Home Services",
+  "description": "Premium residential and commercial window cleaning services of Fresno and Clovis, featuring streak-free guarantee and reliable scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
